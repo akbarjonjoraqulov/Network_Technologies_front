@@ -3,7 +3,6 @@
 </script>
 
 <template>
-
     <div class="min-h-screen flex items-center justify-center bg-gray-100">
         <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md m-3">
             <h2 class="text-2xl font-bold text-center text-gray-700 mb-6">Ro‘yxatdan o‘tish</h2>
@@ -42,7 +41,6 @@
             </form>
         </div>
     </div>
-
 </template>
 <style scoped>
 
